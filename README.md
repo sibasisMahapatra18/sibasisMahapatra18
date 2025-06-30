@@ -17,14 +17,6 @@ Currently diving deep into:
 
 ---
 
-### 🛠️ Tech Stack
-
-* **Languages:** Java,Python, HTML
-* **Frameworks:** Spring Boot
-* **Databases:** MongoDB, PostgreSQL (Neon), H2, Oracle
-* **Tools:** Postman,RESTful APIs, Chrome Extensions
-
----
 
 ### 🌟 Featured Projects
 
